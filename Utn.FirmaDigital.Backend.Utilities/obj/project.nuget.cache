@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0wTJjdZPHY2TJOvZuEvBzd8jAr+aPSFUmc4RwKXH8UU8eyH3XYHx8hqJs3ZgNhj9htj23qHNQwct1vEIxqX5JA==",
+  "success": true,
+  "projectFilePath": "C:\\Repository\\FirmaDigital\\Utn.FirmaDigital.Backend.Utilities\\Utn.FirmaDigital.Backend.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Koko\\.nuget\\packages\\aspnetcore.http.extensions\\1.0.1\\aspnetcore.http.extensions.1.0.1.nupkg.sha512",
+    "C:\\Users\\Koko\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Koko\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Repository\FirmaDigital\Utn.FirmaDigital.Backend.Utilities\bin\Debug\net6.0\Utn.FirmaDigital.Backend.Utilities.deps.json
+C:\Repository\FirmaDigital\Utn.FirmaDigital.Backend.Utilities\bin\Debug\net6.0\Utn.FirmaDigital.Backend.Utilities.dll
+C:\Repository\FirmaDigital\Utn.FirmaDigital.Backend.Utilities\bin\Debug\net6.0\Utn.FirmaDigital.Backend.Utilities.pdb
+C:\Repository\FirmaDigital\Utn.FirmaDigital.Backend.Utilities\obj\Debug\net6.0\Utn.FirmaDigital.Backend.Utilities.csproj.AssemblyReference.cache
+C:\Repository\FirmaDigital\Utn.FirmaDigital.Backend.Utilities\obj\Debug\net6.0\Utn.FirmaDigital.Backend.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\FirmaDigital\Utn.FirmaDigital.Backend.Utilities\obj\Debug\net6.0\Utn.FirmaDigital.Backend.Utilities.AssemblyInfoInputs.cache
+C:\Repository\FirmaDigital\Utn.FirmaDigital.Backend.Utilities\obj\Debug\net6.0\Utn.FirmaDigital.Backend.Utilities.AssemblyInfo.cs
+C:\Repository\FirmaDigital\Utn.FirmaDigital.Backend.Utilities\obj\Debug\net6.0\Utn.FirmaDigital.Backend.Utilities.csproj.CoreCompileInputs.cache
+C:\Repository\FirmaDigital\Utn.FirmaDigital.Backend.Utilities\obj\Debug\net6.0\Utn.FirmaDigital.Backend.Utilities.dll
+C:\Repository\FirmaDigital\Utn.FirmaDigital.Backend.Utilities\obj\Debug\net6.0\refint\Utn.FirmaDigital.Backend.Utilities.dll
+C:\Repository\FirmaDigital\Utn.FirmaDigital.Backend.Utilities\obj\Debug\net6.0\Utn.FirmaDigital.Backend.Utilities.pdb
+C:\Repository\FirmaDigital\Utn.FirmaDigital.Backend.Utilities\obj\Debug\net6.0\ref\Utn.FirmaDigital.Backend.Utilities.dll
+C:\Repository\FirmaDigital\Utn.FirmaDigital.Backend.Utilities\bin\Debug\net6.0\Utn.FirmaDigital.Backend.Common.dll
+C:\Repository\FirmaDigital\Utn.FirmaDigital.Backend.Utilities\bin\Debug\net6.0\Utn.FirmaDigital.Backend.Common.pdb
+C:\Repository\FirmaDigital\Utn.FirmaDigital.Backend.Utilities\obj\Debug\net6.0\Utn.FirmaDigital.Backend.Utilities.csproj.CopyComplete
